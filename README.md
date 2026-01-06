@@ -1,9 +1,9 @@
 # processamento_imagem
 
-Description. 
-The package processamento_imagem is used to:
+Descrição.
+O pacote processamento_imagem é utilizado para:
 	Processamento:
-		- Comparacao de histogramas
+		- Comparação de histogramas
 		- Similaridade de estruturas
 		- Redimensionamento de imagem
 	Utilidades:
@@ -13,16 +13,13 @@ The package processamento_imagem is used to:
 		- Exibir resultados
 		- Exibir histograma
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dio-desafio-pacote-processamento-imagem
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar dio-desafio-pacote-processamento-imagem
 
 ```bash
 pip install dio-desafio-pacote-processamento-imagem
 ```
 
 ## Author
-Charles
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Levi Gonçalves
